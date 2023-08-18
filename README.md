@@ -7,10 +7,10 @@
 # ***Wesley***
 ### About Me
  
-"Olá, me chamo Wesley 😁
+Olá, me chamo Wesley 😁
 
 Estou atualmente estudando ADS, minha experiência na área de TI começou na adolescência com Montagem e Manutenção de Computadores,</br>depois disso passei a trabalhar em áreas administrativas e agora quero voltar a trabalhar com TI.
-    Sou apaixonado por Teatro, sendo uma profissão que não me vejo deixando de fazer."
+    Sou apaixonado por Teatro, sendo uma profissão que não me vejo deixando de fazer.
 ## Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9900ee?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/wesley-marques-206b94165/)
 
