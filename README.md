@@ -1,4 +1,4 @@
-<picture>
+<picture centeralign>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
@@ -6,12 +6,11 @@
 
 # ***Wesley***
 ### About Me
-    :shipit:
-
-    <details>"Olá, me chamo Wesley :smile:
+ 
+    "Olá, me chamo Wesley 😁
 
     Estou atualmente estudando ADS, minha experiência na área de TI começou na adolescência com Montagem e Manutenção de Computadores, depois disso passei a trabalhar em áreas administrativas e agora quero voltar a trabalhar com TI.
-    Sou apaixonado por Teatro, sendo uma profissão que não me vejo deixando de fazer."</details>
+    Sou apaixonado por Teatro, sendo uma profissão que não me vejo deixando de fazer."
 ## Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9900ee?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/wesley-marques-206b94165/)
 
@@ -28,19 +27,19 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ## Soft Skills
-    * Trabalho em Equipe
-    * Comunicação
-    * Escrita
-    * Resolução de Problemas
-    * Criativade
-    * Empatia
-    * Resiliência
-    * Atenção
+    - Trabalho em Equipe
+    - Comunicação
+    - Escrita
+    - Resolução de Problemas
+    - Criativade
+    - Empatia
+    - Resiliência
+    - Atenção
 
 ## Idiomas
-    * Inglês (Fluente)
-    * Espanhol (Intermediário)
-    * Francês (Básico)
+    - Inglês (Fluente)
+    - Espanhol (Intermediário)
+    - Francês (Básico)
 
 
 ## GitHub Stats
@@ -51,14 +50,14 @@
 ## Projetos
 
 ## Interesses
-    + :video_game: *Games*
-    + :performing_arts: *Teatro* :performing_arts:
-    + :pill:*Matrix*
-    + :mage: *Tolkien Universe* :elf:
-    + :flight_arrival: *Lost, The Series*
-    + :detective:Sherlock Holmes
-    + :womans_hat:One  Piece
-    + :punch:*Martial Arts*
+    - 🎮 Games
+    - 🎭 Teatro 🎭
+    - 💊 Matrix
+    - 🧙 Tolkien Universe 🧝‍♂️
+    - 🛬 Lost, The Series
+    - 🕵️ Sherlock Holmes
+    - 👒 One Piece
+    - 👊 Martial Arts
 
 --- 
 > ***Memento Mori***
