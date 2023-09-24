@@ -1,4 +1,4 @@
-<picture wide 200%>
+<picture wide>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
@@ -50,6 +50,8 @@ Estou atualmente estudando ADS, minha experiência na área de TI começou na ad
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wes-SNK&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Projetos
+
+ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.(https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2)
 
 ## Interesses
     - 🎮 Games
