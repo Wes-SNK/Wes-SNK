@@ -51,7 +51,7 @@ Estou atualmente estudando ADS, minha experiência na área de TI começou na ad
 
 ## Projetos
 
-ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.(https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2)
+[ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2)
 
 ## Interesses
     - 🎮 Games
