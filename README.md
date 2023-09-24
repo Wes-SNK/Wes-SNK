@@ -1,4 +1,4 @@
-<picture wide>
+<picture wide 200%>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
