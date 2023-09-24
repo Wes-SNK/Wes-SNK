@@ -1,4 +1,4 @@
-<picture wide>
+<picture wide center>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
@@ -43,7 +43,7 @@ Estou atualmente estudando ADS, minha experiência na área de TI começou na ad
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wes-SNK&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Wes-SNK&theme=tokyonight&background=000&border=30A3DC&dates=FFF)(https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wes-SNK&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
