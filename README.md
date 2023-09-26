@@ -1,4 +1,4 @@
-<picture wide center>
+<picture wide align=center>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
@@ -51,7 +51,7 @@ Estou atualmente estudando ADS, minha experiência na área de TI começou na ad
 
 ## Projetos
 
-[ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2)
+[ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2) Feito conjuntamente com [Allison Gomes](https://github.com/Allison-Gomes) e []()
 
 ## Interesses
     - 🎮 Games
