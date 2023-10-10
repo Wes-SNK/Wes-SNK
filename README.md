@@ -66,11 +66,11 @@
 
 ## Projetos
 
-[ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2) 
+1. [ChatBot criado como finalização do primeiro módulo do programa Match!, parceria entre a MasterTech e a IBM.](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2) 
 
 <!-- Feito conjuntamente com [Allison Gomes](https://github.com/Allison-Gomes) e []() -->
 
-[Gerador de mensagens personalizadas utilizando Inteligência Artificial, para clientes simulados do banco](https://gist.github.com/Wes-SNK/09d3272bf48343e7e0bcc23212a40f82), realizado no Santader Bootcamp 2023 - Ciência de Dados com Python, produzido pela [DIO](https://github.com/digitalinnovationone).
+2. [Gerador de mensagens personalizadas utilizando Inteligência Artificial, para clientes simulados do banco](https://gist.github.com/Wes-SNK/09d3272bf48343e7e0bcc23212a40f82), realizado no Santader Bootcamp 2023 - Ciência de Dados com Python, produzido pela [DIO](https://github.com/digitalinnovationone).
 
 ## Interesses
     
