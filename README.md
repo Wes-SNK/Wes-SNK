@@ -1,4 +1,4 @@
-<picture wide align=center>
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU">
  <img alt="The Matrix Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPnyBpJFUqTG2bpFYWyHY543SO0WUDj2CRw&usqp=CAU"/>
@@ -9,11 +9,13 @@
  
 Olá, me chamo Wesley 😁
 
-Estou atualmente estudando ADS, minha experiência na área de TI começou na adolescência com Montagem e Manutenção de Computadores,</br>depois disso passei a trabalhar em áreas administrativas e agora quero voltar a trabalhar com TI.
-Sou apaixonado por Teatro, sendo uma profissão que não me vejo deixando de fazer.
+Atualmente estudante de ADS, minha experiência na área de TI começou já na adolescência com Montagem e Manutenção de Computadores,</br>depois passei a trabalhar em áreas administrativas e agora estou voltando a trabalhar com foco em TI.
+
+Sou apaixonado por Teatro, uma profissão que não me vejo deixando de exercer.
 
 ## Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9900ee?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/wesley-marques-206b94165/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9900ee?style=for-the-badge&logo=linkedin&logoColor=00aa88)](https://www.linkedin.com/in/wesley-marques-206b94165/)
 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/@wessnk#5336/)
 
