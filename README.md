@@ -1,7 +1,7 @@
-<div style="position: relative; padding: 20px; background-size: cover; display: center; align-items: left;">
-  <img src="img/wl.png" width="auto" height="50" style="position: absolute" title: "Wesley's Brand">
+<div style="position: relative; padding: 20px; background-size: cover; display: left; align-items: left;">
+  <img src="img/wl.png" width="auto" height="120" style="position: relative" alt: "Wesley's Brand">
   <h1 style="text-align: center; margin-left: 50px;
-  font-style: italic;">Wesley</h1>
+  font-style: italic;"><a href="https://github.com/Wes-SNK">Wesley</a></h1>
 </div>
 
     Student of ADS (Analysis and Systems Development) and ADM (Administration) with experience in hardware and PC maintenance.
@@ -106,6 +106,7 @@
 3. [PowerBI Analyst Challenge](https://github.com/Wes-SNK/power_bi_analyst/blob/main/sales_report_desafio_projeto.pbix) ([PDF Version](pdf/sales_report_desafio_projeto.pdf))
 
 </details>
+<br>
 
 ## <div style="text-align: center; background-color: #333; padding: 10px; border-radius: 4px;"><span style="color: white;">GitHub Stats</span></div>
 
@@ -156,7 +157,8 @@
 <br>
 
 
-
-<div style="text-align: center; margin-top: 100px; padding: 0px; background-color: #333; color: #ccc; border-radius: 100px; font-size: 10px; font-style: italic; display: inline">
+---
+> memento mori
+<!---<div style="text-align: center; margin-top: 100px; padding: 0px; background-color: #333; color: #ccc; border-radius: 100px; font-size: 10px; font-style: italic; display: inline">
   <p><strong>Memento Mori</strong></p>
-</div>
+</div>--->
