@@ -1,14 +1,13 @@
-<div style="text-align: center; display: block; margin-left: auto; margin-right: auto">
-  <img src="img/wl.png" alt="Image Description" width="100">
-</div>
-<div>  
-  <h1 style="text-align: left; margin-left: 50px;
-  font-style: italic;"><a href="https://github.com/Wes-SNK">Wesley</a></h1>
+<img align="right" alt="Wesley's Brand" height="240" src="img/wl.png">
+
+<div style="text-align: center;">
+  <h1><a href="https://github.com/Wes-SNK">Wesley</a></h1>
 </div>
 
-    Student of ADS (Analysis and Systems Development) and ADM (Administration) with experience in hardware and PC maintenance.
+
+Student of ADS (Analysis and Systems Development) and ADM (Administration) with experience in hardware and PC maintenance.
     
-    Administrative Server at Federal University of Ceara (UFC).
+Administrative Server at Federal University of Ceara (UFC).
 
   ---
   > 🎭 _Eterno estudante de Teatro_ 🎭
