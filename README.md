@@ -1,6 +1,8 @@
-<div style="position: relative; padding: 20px; background-size: cover; display: left; align-items: left;">
-  <img src="img/wl.png" width="auto" height="120" style="position: relative" alt: "Wesley's Brand">
-  <h1 style="text-align: center; margin-left: 50px;
+<div style="text-align: center; display: block; margin-left: auto; margin-right: auto">
+  <img src="img/wl.png" alt="Image Description" width="100">
+</div>
+<div>  
+  <h1 style="text-align: left; margin-left: 50px;
   font-style: italic;"><a href="https://github.com/Wes-SNK">Wesley</a></h1>
 </div>
 
