@@ -101,6 +101,7 @@ Administrative Server at Federal University of Ceara (UFC).
 ## <div style="text-align: center; background-color: #333; padding: 10px; border-radius: 4px; "><span style="color: white;">Projects</span></div>
 
 <details open>
+  <summary></summary>
   
 1. [ChatBot created as part of the Match! program in partnership between MasterTech and IBM](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2)
 
