@@ -101,11 +101,14 @@
 
 ## <div style="text-align: center; background-color: #333; padding: 10px; border-radius: 4px; "><span style="color: white;">Projects</span></div>
 
+<details open>
+  
 1. [ChatBot created as part of the Match! program in partnership between MasterTech and IBM](https://web.powerva.microsoft.com/environments/Default-b591ae54-33c2-4589-be66-9021a4196c7c/bots/cr9ee_projetoChatBot/canvas?__version__=2)
 
-2. [AI-Powered Custom Message Generator for Simulated Bank Customers](https://gist.github.com/Wes-SNK/09d3272bf48343e7e0bcc23212a40f82)
+2. [AI-Powered Custom Message Generator for Simulated Bank Customers](https://gist.github.com/Wes-SNK/09d3272bf48343e7e0bcc23212a40f82), made on Santander's  Data Science Bootcamp 2023 with [DIO.](github.com/digitalinnovationone)
 
-3. [PowerBI Analyst Challenge](https://github.com/Wes-SNK/power_bi_analyst/blob/main/sales_report_desafio_projeto.pbix) ([PDF Version](pdf/sales_report_desafio_projeto.pdf))
+3. [PowerBI Analyst Challenge,](https://github.com/Wes-SNK/power_bi_analyst/blob/main/sales_report_desafio_projeto.pbix) made on Santander's  Data Science Bootcamp 2023 with [DIO.](github.com/digitalinnovationone)
+ ([PDF Version](pdf/sales_report_desafio_projeto.pdf))
 
 </details>
 <br>
@@ -139,7 +142,10 @@
 
 - 💊 Matrix
   - The Matrix film series is a personal favorite of mine. I'm intrigued by its thought-provoking themes and futuristic concepts, which have sparked countless discussions and debates.
-
+ 
+- 🛬 Lost
+  - The best TV Show and so my favorite :)
+    
 - 🧙 Tolkien Universe 🧝‍♂️
   - I'm a passionate fan of J.R.R. Tolkien's works, including "The Lord of the Rings" and "The Hobbit." The rich mythology and intricate storytelling in Middle-earth captivate me.
 
