@@ -19,11 +19,11 @@
 ## <div style="text-align: center; background-color: #333; padding: 6px; border-radius: 2px;"><span style="color: white;">🌐Connect with me</span></div>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/wesley-marques-206b94165/"></a><img alt="Wes-SNK's Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/wesley-marques-206b94165/"><img alt="Wes-SNK's Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.com/channels/@wessnk#5336/"></a><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=light-blue" alt="Wes-SNK's Discord" title="Discord">
+    <a href="https://discord.com/channels/@wessnk#5336/"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=light-blue" alt="Wes-SNK's Discord" title="Discord"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/wes.cfzo/"></a><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=pruple" alt= "Wes-SNK's Instagram" title="Instagram">
+    <a href="https://www.instagram.com/wes.cfzo/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=pruple" alt= "Wes-SNK's Instagram" title="Instagram"></a>
   </p>
 </div>
 <br>  
