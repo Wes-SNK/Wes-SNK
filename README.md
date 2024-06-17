@@ -30,7 +30,7 @@ Administrative Server at Federal University of Ceara (UFC).
 <div>
 
   ## <div style="text-align: center; background-color: #333; padding: 6px; border-radius: 2px;"><span style="color: white;"><img src="img/Soft-vs-hard-skills-removebg-preview.png" alt="Soft Skills and Hard Skills" width="25" height="18">Hard Skills</span></div>  
-  <details open>
+  <details close>
     <summary></summary>
       <div align="center">
         <p align="center">
@@ -51,7 +51,7 @@ Administrative Server at Federal University of Ceara (UFC).
 <div>
 
   ## <div style="text-align: center; background-color: #333; padding: 6px; border-radius: 2px;"><span style="color: white;"><img src="img/Soft-vs-hard-skills-removebg-preview.png" alt="Soft Skills and Hard Skills" width="25" height="18">Soft Skills</span></div> 
-  <details open>
+  <details close>
   <summary></summary>
 
   ### Communication
@@ -80,7 +80,7 @@ Administrative Server at Federal University of Ceara (UFC).
 <div>
 
 ## <div style="text-align: center; background-color: #333; padding: 6px; border-radius: 2px;"><span style="color: white;"><img src="img/flag-world-map.png" alt="Languages' Globe" height="26">Languages</span></div>
-  <details open>
+  <details close>
   <summary></summary>
 
   - <img src="img/br_flag.png" alt="Brasilian Flag in Heart's Shape" title="Brasilian Flag in Heart's Shape" width="14" height="16"> Brasilian Portuguese
