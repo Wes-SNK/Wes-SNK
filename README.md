@@ -13,7 +13,7 @@ Administrative Server at Federal University of Ceara (UFC).
   > 🎭 _Eterno estudante de Teatro_ 🎭
 
 <div>
-<br>
+
 
 ## <div style="text-align: center; background-color: #333; padding: 6px; border-radius: 2px;"><span style="color: white;">🌐Connect with me</span></div>
 
