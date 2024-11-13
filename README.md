@@ -110,6 +110,8 @@ Administrative Staff at Federal University of Ceara (UFC).
 3. [PowerBI Analyst Challenge,](https://github.com/Wes-SNK/power_bi_analyst/blob/main/sales_report_desafio_projeto.pbix) made on Santander's  Data Science Bootcamp 2023 with [DIO.](github.com/digitalinnovationone)
  ([PDF Version](pdf/sales_report_desafio_projeto.pdf))
 
+4. [Desenvolvimento de Site para a Cia. Animaturas](https://github.com/Wes-SNK/site-teste-cia-animaturas) feito com HTML, CSS e JavaScript, em 2024. [Veja o site da Cia. Animaturas!](ciaanimaturas.com.br)
+
 </details>
 <br>
 
