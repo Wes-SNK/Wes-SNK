@@ -7,7 +7,7 @@
 
 Student of ADS (Analysis and Systems Development) and ADM (Administration) with experience in hardware and PC maintenance.
     
-Administrative Server at Federal University of Ceara (UFC).
+Administrative Staff at Federal University of Ceara (UFC).
 
   ---
   > 🎭 _Eterno estudante de Teatro_ 🎭
@@ -22,7 +22,7 @@ Administrative Server at Federal University of Ceara (UFC).
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discord.com/channels/@wessnk#5336/"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=light-blue" alt="Wes-SNK's Discord" title="Discord"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/wes.cfzo/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=pruple" alt= "Wes-SNK's Instagram" title="Instagram"></a>
+    <a href="https://www.instagram.com/wesley.visceral/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=pruple" alt= "Wes-SNK's Instagram" title="Instagram"></a>
   </p>
 </div>
 <br>  
